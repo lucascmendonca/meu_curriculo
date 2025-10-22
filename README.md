@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Lucas Cardoso
+# 👋 Bem vindo(a) Recrutador(a)! Me chamo Lucas! Gostaria de apresentar um resumo breve sobre minha tragetórica até aqui:
 
 🎯 **Analytics Engineer**  
 💡 Apaixonado por tecnologia, dados e inovação.  
