@@ -1,4 +1,4 @@
-# 👋 Bem vindo(a) Recrutador(a)! Me chamo Lucas! Gostaria de apresentar um resumo breve sobre minha tragetórica até aqui:
+# 👋 Bem vindo(a) Recrutador(a)! Me chamo Lucas e, gostaria de apresentar um resumo breve sobre minha tragetória até aqui:
 
 🎯 **Analytics Engineer**  
 💡 Apaixonado por tecnologia, dados e inovação.  
