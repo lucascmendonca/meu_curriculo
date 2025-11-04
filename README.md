@@ -59,7 +59,7 @@ Busco constantemente unir **engenharia de software** e **engenharia de dados** p
 
 ## 📄 Currículo completo
 
-📥 [Baixar meu currículo em PDF](./lucas_cardoso_cv.2.pdf)
+📥 [Baixar meu currículo em PDF](./cv_lucas_cardoso_v_2025_11.pdf)
 
 ---
 
