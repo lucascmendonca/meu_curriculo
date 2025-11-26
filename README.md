@@ -55,6 +55,10 @@ Busco constantemente unir **engenharia de software** e **engenharia de dados** p
 - Explorando **Django**, **AWS Glue** e **Power BI avançado**  
 - Buscando oportunidades para contribuir com **soluções inovadoras** e **data-driven**
 
+
+## 🧑🏾‍🔬 Alguns dos meus projetos
+- [Django](https://github.com/lucascmendonca/atividade-pratica-restic)
+
 ---
 
 ## 📄 Currículo completo
