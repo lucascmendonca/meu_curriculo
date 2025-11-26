@@ -1,6 +1,6 @@
 # 👋 Bem vindo(a) Recrutador(a)! Me chamo Lucas e, gostaria de apresentar um resumo breve sobre minha tragetória até aqui:
 
-🎯 **Analytics Engineer**  
+🎯 **Engenharia de Dados**  
 💡 Apaixonado por tecnologia, dados e inovação.  
 📍 Salvador, Brasil  
 📧 [lucascmendoca@gmail.com](mailto:lucascmendoca@gmail.com) | 📞 +55 (71) 9 9122-6912  
