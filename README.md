@@ -58,6 +58,8 @@ Busco constantemente unir **engenharia de software** e **engenharia de dados** p
 
 ## 🧑🏾‍🔬 Alguns dos meus projetos
 - [Django](https://github.com/lucascmendonca/atividade-pratica-restic)
+- [Machine Learning - Projeto Acadêmico](https://github.com/lucascmendonca/eixo5_grupo3_20252)
+- [Engenharia de Dados - Desafio Técnico](https://github.com/lucascmendonca/case-data-eng-opea)
 
 ---
 
