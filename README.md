@@ -5,6 +5,9 @@
 📍 Salvador, Brasil  
 📧 [lucascmendoca@gmail.com](mailto:lucascmendoca@gmail.com) | 📞 +55 (71) 9 9122-6912  
 🔗 [LinkedIn](https://www.linkedin.com/in/lucascmendoca)
+📄 Currículo completo:
+📥 [Baixar meu currículo em PDF](./cv_lucas_cardoso_v_2026_02_PM.pdf)
+
 
 ---
 
@@ -60,12 +63,6 @@ Busco constantemente unir **engenharia de software** e **engenharia de dados** p
 - [Django](https://github.com/lucascmendonca/atividade-pratica-restic)
 - [Machine Learning - Projeto Acadêmico](https://github.com/lucascmendonca/eixo5_grupo3_20252)
 - [Engenharia de Dados - Desafio Técnico](https://github.com/lucascmendonca/case-data-eng-opea)
-
----
-
-## 📄 Currículo completo
-
-📥 [Baixar meu currículo em PDF](./cv_lucas_cardoso_v_2026_02_PM.pdf)
 
 ---
 
