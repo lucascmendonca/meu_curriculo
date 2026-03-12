@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mim
 
-Sou graduando em **Banco de Dados (PUC Minas)** e atualmente trabalho como **Desenvolvedor Power Platform Júnior** na Performa_IT.  
+Sou graduado em **Banco de Dados (PUC Minas)** e atualmente trabalho como **Desenvolvedor Power Platform** na Performa_IT.  
 Tenho experiência no desenvolvimento de **aplicações web**, **dashboards interativos** e **pipelines de dados** usando **Python, Power BI, Power Apps e AWS Glue**.  
 Busco constantemente unir **engenharia de software** e **engenharia de dados** para criar soluções escaláveis e orientadas por valor.
 
@@ -18,7 +18,7 @@ Busco constantemente unir **engenharia de software** e **engenharia de dados** p
 
 ## 💼 Experiência
 
-### 🧠 Desenvolvedor Power Platform Jr — *Performa_IT* (2023 - Atual)
+### 🧠 Desenvolvedor Power Platform — *Performa_IT* (2023 - Atual)
 - Otimizei processos de **ETL com Python (PySpark)** e **AWS Glue**, aumentando a performance de pipelines de dados.  
 - Desenvolvi **dashboards interativos** no Power BI para setores de **investimentos, farmacêutico e energia**.  
 - Criei **aplicações Power Apps** para gestão de projetos e controle de garantias em empresas nacionais e internacionais.
@@ -65,7 +65,7 @@ Busco constantemente unir **engenharia de software** e **engenharia de dados** p
 
 ## 📄 Currículo completo
 
-📥 [Baixar meu currículo em PDF](./cv_lucas_cardoso_v_2025_11.pdf)
+📥 [Baixar meu currículo em PDF](./cv_lucas_cardoso_v_2026_02_PM.pdf)
 
 ---
 
